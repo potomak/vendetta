@@ -1,6 +1,6 @@
 MXMLC = mxmlc
 FLIXEL = /Users/giovanni/lib/flixel
-SRC = src/PlayState.as src/Preloader.as src/Player.as
+SRC = src/PlayState.as src/Preloader.as src/Player.as src/Level.as
 ASSETS = assets/level.csv assets/player.png
 MAIN = src/Vendetta.as
 SWF = Vendetta.swf
