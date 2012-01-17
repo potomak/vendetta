@@ -13,6 +13,7 @@ package
 
       // Create a new tilemap using our level CSV
       loadMap(new levelCSV, FlxTilemap.ImgAuto, 0, 0, FlxTilemap.AUTO);
+      follow();
     }
   }
 }
